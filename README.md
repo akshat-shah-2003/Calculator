@@ -2,7 +2,7 @@
 Imports used:
 Kivy
 
-Simple calculator with "+","-","*","/", operations.
+Simple calculator with "+","-","*","/", operations. eval() function is used to calculate expression result.
 
 Special use of lambda function for input, to avoid multiple functions for input of each symbol or number.
 
